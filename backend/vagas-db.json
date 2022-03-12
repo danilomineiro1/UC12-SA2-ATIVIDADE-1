@@ -1,0 +1,46 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Programador Junior 1",
+      "foto": "foto.01.png",
+      "descricao": "Necessario conhecimento de PHP, que foda é ser programador",
+      "salario": 2000
+    },
+    {
+      "id": 2,
+      "nome": "Programador Junior II",
+      "foto": "foto.02.png",
+      "descricao": "Necessario conhecimento de PHP, Node JSque foda é ser programador",
+      "salario": 3000
+    },
+    {
+      "id": 3,
+      "nome": "Programador Senior I",
+      "foto": "foto.03.png",
+      "descricao": "Necessario conhecimento de PHP, Node JS, Phiton, CSS, Java e HTML que foda é ser programador",
+      "salario": 4000
+    },
+    {
+      "nome": "Desenvolvedor de Sistemas",
+      "foto": "foto.01",
+      "descricao": "llllll",
+      "salario": 7000000,
+      "id": 4
+    },
+    {
+      "nome": "Desenvolvedor de Sistemas",
+      "foto": "foto.01",
+      "descricao": "llllll",
+      "salario": 7000000,
+      "id": 5
+    },
+    {
+      "nome": "Desenvolvedor de Sistemas",
+      "foto": "foto.01",
+      "descricao": "llllll",
+      "salario": 7000000,
+      "id": 6
+    }
+  ]
+}
