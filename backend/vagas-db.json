@@ -41,6 +41,13 @@
       "descricao": "llllll",
       "salario": 7000000,
       "id": 6
+    },
+    {
+      "nome": "Desenvolvedor de Sistemas",
+      "foto": "foto.01.png",
+      "descricao": "conhecimento em varias linguagens de programação atual",
+      "salario": 5000,
+      "id": 7
     }
   ]
 }
